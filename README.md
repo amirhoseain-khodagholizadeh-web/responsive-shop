@@ -1,4 +1,4 @@
-# Responsive shop website 
+# Responsive shop 
 
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/responsive-shop/blob/main/assets/img/Capture.JPG)
 ![viewfinal](https://github.com/amirhoseain-khodagholizadeh-web/responsive-shop/blob/main/assets/img/Capture2.JPG)
